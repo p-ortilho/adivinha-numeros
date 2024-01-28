@@ -1,4 +1,4 @@
-# Adivinhas numeros
+# Adivinha numeros
 
 ## Objetivo do jogo
 Nesse jogo, é gerado um número entre 0 e 100. O seu objetivo é tentar acertar, por tentativa e erro, qual foi o número gerado. Durante o jogo, caso você erre o número, aparece uma dica se o número gerado é maior ou menor que o número que você digitou como resposta. No final, com o acerto do número digitado, aparece quantas tentativas você precisou e se gostaria de jogar mais uma vez.

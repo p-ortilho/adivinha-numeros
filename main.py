@@ -10,7 +10,7 @@ def menu():
         os.system('cls')
     else:
         os.system('clear')
-    name_game = text2art('Adivinhas Numeros', font='small', chr_ignore=True)
+    name_game = text2art('Adivinha Numeros', font='small', chr_ignore=True)
     print(Fore.GREEN + name_game + Fore.RESET)
     print(Fore.BLUE, 'Neste jogo, o seu objetivo é acertar o número gerado aleatoriamente entre 0 e 100.\n Pressione "s" (start) para começar ou "e" (exit) para sair.', Fore.RESET)
 def number_generate():
